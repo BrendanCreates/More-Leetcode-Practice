@@ -1,0 +1,5 @@
+Common Patterns: 
+
+Sliding Window - arrays/linked list/linear data, finding max/min substring
+
+Two Pointers - arrays (useful for sorted) but can use otherwise e.g. longest mountain
